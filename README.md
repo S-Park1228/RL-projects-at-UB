@@ -4,7 +4,7 @@ Various Reinforcement Learning projects at UB
 - semester: Spring 2022
 - professor: Alina Vereshchaka
 
-# Solving a GridWorld problem: Assignment 1
+# GridWorld problem: Assignment 1
 - Assignment Instruction: Deep Reinforcement Learning in Action.pdf
 - Interim Results: Assignment 1 (Checkpoint)_Sungjoon Park.ipynb
 - Final Results: Assignment 1 (Checkpoint + Part 2)_Sungjoon Park.ipynb, Assignment 1 (Checkpoint + Part 2)_Sungjoon Park.pdf
