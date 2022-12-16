@@ -1,7 +1,8 @@
 # RL-projects-at-UB
 Various Reinforcement Learning projects at UB
-- class: CSE 546 Reinforcement Learning
-- semester: Spring 2022
+- classes:
+  - CSE 546 Reinforcement Learning (Spring 2022)
+  - CSE 616 Multiagent Systems (Fall 2022)
 - professor: Alina Vereshchaka
 
 # GridWorld problem: Assignment 1
@@ -23,7 +24,7 @@ Various Reinforcement Learning projects at UB
 - Algorithm: Q-learning
 - Final Results: soljang_spark55_final_project.ipynb, soljang_spark55_final_project.pdf
 
-# MARL MPE problem: Assignment 3 of CSE 616 Multiagent Systems
+# MARL MPE problem: Assignment 3 of CSE 616
 - Environment: Multiagent-Particle-Env (MPE)
 - Algorithm: Multiagent Deep Deterministic Policy Gradient
 - Final Results: Please see the 'mas' folder.
